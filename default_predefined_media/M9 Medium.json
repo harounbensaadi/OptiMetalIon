@@ -1,0 +1,37 @@
+{
+    "media_composition": [
+        [
+            "Disodium hydrogen phosphate",
+            "Na2HPO4"
+        ],
+        [
+            "Monopotassium phosphate",
+            "KH2PO4"
+        ],
+        [
+            "Sodium chloride",
+            "NaCl"
+        ],
+        [
+            "Ammonium chloride",
+            "NH4Cl"
+        ]
+    ],
+    "concentrations": [
+        6.0,
+        3.0,
+        0.5,
+        1.0
+    ],
+    "description": "Minimal medium used for molecular biology, especially for E. coli growth.",
+    "organism": "E. coli",
+    "elements": [
+        "Na",
+        "K",
+        "Cl",
+        "N"
+    ],
+    "reference": "Journal of Molecular Biology, 2022",
+    "pub_med_id": "12345678",
+    "pub_med_link": "https://pubmed.ncbi.nlm.nih.gov/12345678/"
+}

@@ -1,0 +1,32 @@
+{
+    "media_composition": [
+        [
+            "Ammonium chloride",
+            "NH4Cl"
+        ],
+        [
+            "Dipotassium phosphate",
+            "K2HPO4"
+        ],
+        [
+            "Sodium sulfate",
+            "Na2SO4"
+        ]
+    ],
+    "concentrations": [
+        1.0,
+        7.15,
+        2.0
+    ],
+    "description": "Used for the cultivation of specific bacterial strains, especially in industrial applications.",
+    "organism": "Specific bacterial strains",
+    "elements": [
+        "N",
+        "K",
+        "Na",
+        "S"
+    ],
+    "reference": "Industrial Microbiology, 2019",
+    "pub_med_id": "55667788",
+    "pub_med_link": "https://pubmed.ncbi.nlm.nih.gov/55667788/"
+}

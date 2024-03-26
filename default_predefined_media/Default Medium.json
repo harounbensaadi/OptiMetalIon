@@ -1,0 +1,81 @@
+{
+    "media_composition": [
+        [
+            "Glucose", 
+            "C6H12O6"
+        ],
+        [
+            "Ammonium chloride", 
+            "NH4Cl"
+        ],
+        [
+            "Monosodium dihydrogen phosphate", 
+            "NaH2PO4"
+        ],
+        [
+            "Potassium chloride",
+            "KCl"
+        ],
+        [
+            "Sodium hydrogen sulfate", 
+            "NaHSO4"
+        ],
+        [
+            "Magnesium chloride", 
+            "MgCl2"
+        ],
+        [
+            "Calcium chloride", 
+            "CaCl2"
+        ],
+        [
+            "Iron chloride", 
+            "FeCl2"
+        ],
+        [
+            "Manganese chloride", 
+            "MnCl2"
+        ],
+        [
+            "Zinc chloride", 
+            "ZnCl2"
+        ],
+        [
+            "Copper chloride", 
+            "CuCl2"
+        ],
+        [
+            "Cobalt chloride", 
+            "CoCl2"
+        ]
+    ],
+    "concentrations": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "description": "Default medium taken from Book4.xlsx",
+    "organism": "Fungi (Aspergillus, Penicillium)",
+    "elements": [
+        "Na",
+        "N",
+        "O",
+        "K",
+        "Mg",
+        "Fe",
+        "C",
+        "H"
+    ],
+    "reference": "Fungal Biology, 2018",
+    "pub_med_id": "99887766",
+    "pub_med_link": "https://pubmed.ncbi.nlm.nih.gov/99887766/"
+}

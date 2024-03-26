@@ -1,0 +1,33 @@
+{
+    "media_composition": [
+        [
+            "Glucose",
+            "C6H12O6"
+        ],
+        [
+            "Magnesium sulfate",
+            "MgSO4"
+        ],
+        [
+            "Calcium chloride",
+            "CaCl2"
+        ]
+    ],
+    "concentrations": [
+        20.0,
+        1.0,
+        0.1
+    ],
+    "description": "Minimal medium, can be supplemented for specific bacterial growth needs.",
+    "organism": "Various bacteria",
+    "elements": [
+        "C",
+        "H",
+        "O",
+        "Mg",
+        "Ca"
+    ],
+    "reference": "Bacterial Growth Journals, 2021",
+    "pub_med_id": "87654321",
+    "pub_med_link": "https://pubmed.ncbi.nlm.nih.gov/87654321/"
+}

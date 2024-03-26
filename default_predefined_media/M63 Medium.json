@@ -1,0 +1,32 @@
+{
+    "media_composition": [
+        [
+            "Monopotassium phosphate",
+            "KH2PO4"
+        ],
+        [
+            "Ammonium sulfate",
+            "(NH4)2SO4"
+        ],
+        [
+            "Ferrous sulfate",
+            "FeSO4"
+        ]
+    ],
+    "concentrations": [
+        13.6,
+        2.0,
+        0.001
+    ],
+    "description": "Minimal medium with defined growth conditions, similar to M9.",
+    "organism": "E. coli and other bacteria",
+    "elements": [
+        "K",
+        "N",
+        "S",
+        "Fe"
+    ],
+    "reference": "Microbial Growth Studies, 2020",
+    "pub_med_id": "11223344",
+    "pub_med_link": "https://pubmed.ncbi.nlm.nih.gov/11223344/"
+}

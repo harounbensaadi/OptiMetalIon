@@ -1,0 +1,34 @@
+{
+    "media_composition": [
+        [
+            "Manganese Sulfate",
+            "MnSO4\u00b7H2O"
+        ],
+        [
+            "Copper Sulphate",
+            "CuSO4\u00b75H2O"
+        ],
+        [
+            "Zinc sulfate heptahydrate",
+            "ZnSO4\u00b77H2O"
+        ]
+    ],
+    "concentrations": [
+        0.01,
+        0.05,
+        0.01
+    ],
+    "description": "Contains trace elements essential for enzymatic reactions in various microbes.",
+    "organism": "Various microbes",
+    "elements": [
+        "Mn",
+        "Cu",
+        "Zn",
+        "S",
+        "O",
+        "H"
+    ],
+    "reference": "Trace Elements in Microbiology, 2024",
+    "pub_med_id": "33445566",
+    "pub_med_link": "https://pubmed.ncbi.nlm.nih.gov/33445566/"
+}

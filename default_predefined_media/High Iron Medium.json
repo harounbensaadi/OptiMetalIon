@@ -1,0 +1,34 @@
+{
+    "media_composition": [
+        [
+            "Ferrous sulphate",
+            "FeSO4\u00b77H2O"
+        ],
+        [
+            "Ferric chloride",
+            "FeCl3\u00b76H2O"
+        ],
+        [
+            "Ammonium sulphate",
+            "(NH4)2SO4"
+        ]
+    ],
+    "concentrations": [
+        0.05,
+        0.02,
+        1.0
+    ],
+    "description": "Rich in iron, used for bacteria requiring elevated iron levels.",
+    "organism": "Iron-dependent bacteria",
+    "elements": [
+        "Fe",
+        "Cl",
+        "N",
+        "S",
+        "O",
+        "H"
+    ],
+    "reference": "Iron in Microbiology, 2021",
+    "pub_med_id": "55668899",
+    "pub_med_link": "https://pubmed.ncbi.nlm.nih.gov/55668899/"
+}
