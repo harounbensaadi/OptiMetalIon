@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harounbensaadi/OptiMetalIon/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fharounbensaadi%2FOptiMetalIon%2Fblob%2Fmain%2Fmain.ipynb)
 # OptiMetalIon
 OptiMetalIon is a web-based application designed for optimizing metal ion concentrations to enhance microbial growth in biotechnological applications. Utilizing a user-friendly interface, it facilitates precise prediction of metal ion requirements for improved cell culture efficacy
 
